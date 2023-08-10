@@ -1,0 +1,47 @@
+#Reg{
+    text-align: center;
+    color: #e9e6e6;
+    font-size: 30px;
+    
+    font-weight: bold;
+    border-radius: 10px;
+    
+    
+}
+
+
+#Login{
+      border: 1px solid rgb(240, 235, 235);
+      width: 150px;
+      border-radius: 10px;
+      background-color: rgb(5, 139, 72);
+      color: white;
+      font-weight: bold;
+      font-size: 20px;
+      
+}
+
+.sin  #sinup{
+    border: 1px solid rgb(240, 235, 235);
+    width: 150px;
+    border-radius: 10px;
+    background-color: rgb(5, 139, 72);
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+
+}
+#form{
+     border: 1px solid black;
+     padding: 20px;
+    
+     border-radius: 20px;
+     background-color: rgb(234, 236, 236);
+     box-shadow: 1px 1px 4px black;
+     
+}
+#form label{
+             font-weight: bold;
+             font-size: 20px;
+          
+}
